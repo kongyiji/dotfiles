@@ -2,7 +2,7 @@
 
 For example
 
-Your link is `D:\cmder\config`, target is `D:\Github_Repo\dotfiles\cmder\config`
+Link is `D:\cmder\config`, target is `D:\Github_Repo\dotfiles\cmder\config`
 
 Use following command in cmd:
 
