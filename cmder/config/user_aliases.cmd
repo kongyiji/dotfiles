@@ -13,3 +13,8 @@ history=cat "%CMDER_ROOT%\config\.history"
 unalias=alias /d $1
 vi=vim $*
 cmderr=cd /d "%CMDER_ROOT%"
+
+;= my aliases
+ll=ls -l --show-control-chars -F --color $*
+ss=set http_proxy=http://127.0.0.1:1080 && set https_proxy=http://127.0.0.1:1080
+uss=set http_proxy=&&set https_proxy=
