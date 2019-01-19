@@ -11,3 +11,11 @@ mklink /J D:\cmder\config D:\Github_Repo\dotfiles\cmder\config
 attrib D:\cmder\config +R /L
 ```
 
+
+
+## Use Powershell
+
+
+
+When using powershell, aliases files can be named ***.alias.ps1 in `cmder\config\profile.d\`
+
