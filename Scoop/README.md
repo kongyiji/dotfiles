@@ -28,5 +28,6 @@ scoop install ArchWSL
 scoop install typora
 scoop install sourcetree
 scoop install fontforge
+scoop install mRemoteNG
 ```
 
