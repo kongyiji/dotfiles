@@ -24,10 +24,13 @@ scoop install SarasaGothic DroidSansMono-NF
 scoop install posh-git oh-my-posh
 # WSL Systems
 scoop install ArchWSL
-# other tools
-scoop install typora
+# Dev tools
 scoop install sourcetree
-scoop install fontforge
 scoop install mRemoteNG
+scoop install Insomnia
+# Other tools
+scoop install typora
+scoop install fontforge
+
 ```
 
