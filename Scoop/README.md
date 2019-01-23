@@ -9,6 +9,7 @@ Homepage: https://scoop.sh/
 ### Add buckets
 
 ```
+scoop add bucket java
 scoop add bucket extras
 scoop add bucket nerd-fonts
 ```
@@ -28,6 +29,8 @@ scoop install ArchWSL
 scoop install sourcetree
 scoop install mRemoteNG
 scoop install Insomnia
+scoop install oraclejdk-lts
+scoop install DBeaver
 # Other tools
 scoop install typora
 scoop install fontforge
