@@ -32,7 +32,9 @@ scoop install Insomnia
 scoop install oraclejdk-lts
 scoop install DBeaver
 # Other tools
-scoop install typora
+scoop install Everything
+scoop install Wox
+scoop install Typora
 scoop install fontforge
 
 ```
