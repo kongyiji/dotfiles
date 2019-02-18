@@ -35,6 +35,7 @@ scoop install DBeaver
 scoop install Everything
 scoop install Wox
 scoop install Typora
+scoop install Snipaste
 scoop install fontforge
 
 ```
