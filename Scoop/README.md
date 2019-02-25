@@ -26,7 +26,7 @@ scoop install posh-git oh-my-posh
 # WSL Systems
 scoop install ArchWSL
 # Dev tools
-scoop install sourcetree
+scoop install SourceTree
 scoop install mRemoteNG
 scoop install Insomnia
 scoop install oraclejdk-lts
