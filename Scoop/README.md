@@ -18,7 +18,7 @@ scoop add bucket nerd-fonts
 
 ```
 # Terminals
-scoop install cmder terminus
+scoop install cmder Terminus
 # Fonts
 scoop install SarasaGothic DroidSansMono-NF
 # Powershell
