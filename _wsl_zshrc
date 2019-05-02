@@ -84,6 +84,8 @@ POWERLEVEL9K_USER_DEFAULT_BACKGROUND='lightslateblue'
 plugins=(
   git
   zsh-autosuggestions
+  docker
+  docker-compose
 )
 
 source $ZSH/oh-my-zsh.sh
