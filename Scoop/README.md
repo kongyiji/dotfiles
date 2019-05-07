@@ -36,6 +36,7 @@ scoop install Everything
 scoop install Wox
 scoop install Typora
 scoop install Snipaste
+scoop install ShareX
 scoop install fontforge
 
 ```
