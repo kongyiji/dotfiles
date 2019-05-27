@@ -28,9 +28,11 @@ scoop install ArchWSL
 # Dev tools
 scoop install SourceTree
 scoop install mRemoteNG
-scoop install Insomnia
 scoop install oraclejdk-lts
 scoop install DBeaver
+# API Test
+scoop install Postman
+scoop install Insomnia
 # Other tools
 scoop install Everything
 scoop install Wox
@@ -38,6 +40,5 @@ scoop install Typora
 scoop install Snipaste
 scoop install ShareX
 scoop install fontforge
-
 ```
 
