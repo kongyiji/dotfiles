@@ -42,3 +42,19 @@ scoop install ShareX
 scoop install fontforge
 ```
 
+## Cache clean
+
+```
+# Show cache
+scoop cache show 7zip
+# clean
+scoop cache rm 7zip
+```
+
+## Remove old version
+
+```
+# remove old version
+scoop cleanup 7zip
+```
+
