@@ -30,6 +30,10 @@ scoop install SourceTree
 scoop install mRemoteNG
 scoop install oraclejdk-lts
 scoop install DBeaver
+# IDE tools
+scoop install VSCode
+scoop install LiteIDE
+scoop install Eclipse-java
 # API Test
 scoop install Postman
 scoop install Insomnia
