@@ -9,9 +9,9 @@ Homepage: https://scoop.sh/
 ### Add buckets
 
 ```
-scoop add bucket java
-scoop add bucket extras
-scoop add bucket nerd-fonts
+scoop bucket add java
+scoop bucket add extras
+scoop bucket add nerd-fonts
 ```
 
 ### Install packages
