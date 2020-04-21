@@ -22,3 +22,5 @@ gss=git config --global http.proxy http://127.0.0.1:1080 && git config --global 
 ugss=git config --global --unset http.proxy && git config --global --unset https.proxy
 sgo=set GO111MODULE=on && set GOPROXY=https://goproxy.io
 usgo=set GO111MODULE=auto && set GOPROXY=
+ydl=youtube-dl.exe --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" $*
+ydlp=youtube-dl.exe --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" --proxy socks5://127.0.0.1:10808/ $*
