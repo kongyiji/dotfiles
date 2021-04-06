@@ -32,6 +32,7 @@ scoop install SourceTree
 scoop install mRemoteNG
 scoop install oraclejdk-lts
 scoop install DBeaver
+scoop install MobaXterm
 # IDE tools
 scoop install VSCode
 scoop install LiteIDE
