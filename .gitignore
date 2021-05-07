@@ -1,3 +1,5 @@
 # ingore files in cmder
 cmder/config/.history
 cmder/config/user-ConEmu.xml
+cmder/config/clink.log
+cmder/config/clink_history*
