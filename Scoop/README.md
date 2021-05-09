@@ -25,6 +25,7 @@ scoop install SarasaGothic DroidSansMono-NF
 scoop install posh-git oh-my-posh
 # WSL Systems
 scoop install ArchWSL
+scoop install LxRunOffline
 # Dev tools
 scoop install Git
 scoop install TortoiseSVN
