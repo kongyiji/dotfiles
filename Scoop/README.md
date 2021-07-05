@@ -18,7 +18,7 @@ scoop bucket add nerd-fonts
 
 ```
 # Terminals
-scoop install cmder Terminus
+scoop install cmder Terminus Electerm
 # Fonts
 scoop install SarasaGothic DroidSansMono-NF
 # Powershell
@@ -27,6 +27,7 @@ scoop install posh-git oh-my-posh
 scoop install ArchWSL
 scoop install LxRunOffline
 # Dev tools
+scoop install Anaconda3
 scoop install Git
 scoop install TortoiseSVN
 scoop install SourceTree
@@ -42,6 +43,7 @@ scoop install Eclipse-java
 scoop install Postman
 scoop install Insomnia
 # Other tools
+scoop install WinRAR
 scoop install Everything
 scoop install Wox
 scoop install Typora
@@ -58,6 +60,8 @@ scoop install fontforge
 scoop cache show 7zip
 # clean
 scoop cache rm 7zip
+# clean all app cache
+scoop cache rm *
 ```
 
 ## Remove old version
@@ -65,5 +69,16 @@ scoop cache rm 7zip
 ```
 # remove old version
 scoop cleanup 7zip
+# remove all app old version
+scoop cleanup *
+```
+
+## Use Proxy
+
+```
+# Set Proxy
+scoop config proxy "IP:Port"
+# Remove Proxy
+scoop config rm proxy
 ```
 
